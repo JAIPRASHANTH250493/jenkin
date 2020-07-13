@@ -15,9 +15,6 @@ import cucumber.api.junit.Cucumber;
 
 public class First_page_Runner {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
+	
 
 }
